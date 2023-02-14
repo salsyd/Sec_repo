@@ -4,4 +4,8 @@ This is remote changes done from my side please consider these changes thanks a 
 
 this third commit to check password less setup.
 
+<<<<<<< HEAD
 Please confirm that changes we made are successfull 
+=======
+set remote password less successfully set congrates
+>>>>>>> 527dc4e9fd43e58b5dae81fdb35f899536bfe500

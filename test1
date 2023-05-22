@@ -1,1 +1,1 @@
-first commit
+echo "Todays Date is $(date)"
